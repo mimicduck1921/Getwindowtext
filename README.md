@@ -207,4 +207,4 @@ GetWindowText is offered as a complete free version, with all features and updat
 Unlock the full potential of your Windows experience with GetWindowText. **Download it now for free!**
 
 ---
-**Last updated:** 2026-10-09 08:42:15 UTC
+**Last updated:** 2026-10-09 15:57:46 UTC
